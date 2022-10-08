@@ -23,20 +23,20 @@
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/shagun-sharma-a17245234">
-    <img src="https://img.shields.io/badge/Shagun Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/nikhil-512-401131168/">
+    <img src="https://img.shields.io/badge/Nikhil Magar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:shagun08081999@gmail.com">
-    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:nikhilmagar1995@gmail.com">
+    <img src="https://img.shields.io/badge/Nikhil Magar-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://harshal-jadhav.github.io/">
+<!--   <a href="https://github.com/Nikras512">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a> -->
 <!--   <a href="https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-magar" /> </div>
 <h1></h1>
 
  
