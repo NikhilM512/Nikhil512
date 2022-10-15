@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning at **Masai School**
 
- - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>  
+ - 👨‍💻 Resume & All of my projects are available at  <a href="">Click Me</a>  
 
 - 📫 How to reach me **nikhilmagar1995@gmail.com**
 
