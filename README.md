@@ -20,7 +20,6 @@
 - ⚡ Fun fact **I think I am very polite and funny.**
 
 
-
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikhil-512-401131168/">
